@@ -3,12 +3,12 @@
 Hands-on, step-by-step very simple gude to AWS services for beginners.
 
 ## 📚 Guides
-- [CloudWatch](cloudwatch.md) – Monitor & alert
-- [EC2](ec2.md) – Virtual servers
-- [IAM](iam.md) – Access control
-- [RDS](rds.md) – Managed databases
-- [S3](s3.md) – Object storage
-- [VPC](vpc.md) – Private networks
+- [CloudWatch](CloudWatch.md) – Monitor & alert
+- [EC2](EC2.md) – Virtual servers
+- [IAM](IAM.md) – Access control
+- [RDS](RDS.md) – Managed databases
+- [S3](S3.md) – Object storage
+- [VPC](VPC.md) – Private networks
 
 Each guide includes:
 - Key terms  
